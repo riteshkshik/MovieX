@@ -1,0 +1,19 @@
+npi i react-router-dom => 
+LInk tag becomes anchor tag after compilation
+
+MovieDb Api => 49836ecf1c467eb9fe5d4c52eaf7007b
+API Read Access Token => eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0OTgzNmVjZjFjNDY3ZWI5ZmU1ZDRjNTJlYWY3MDA3YiIsInN1YiI6IjY0YWQwMDNlNmEzNDQ4MDEyY2U2OGI1MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.MSKFXg8q_3ORuaQJ7glU2zPrSS7gw2VkY6mDfUv8JXw
+
+
+fetch url => https://api.themoviedb.org/3/movie/popular?api_key=49836ecf1c467eb9fe5d4c52eaf7007b&language=en-US
+
+npm i react-loading-skeleton => react loading skeleton => used to load skeleton for content
+
+git 
+1.git init
+2. git add. => preprocess for commit
+3.
+
+
+
+35:00
