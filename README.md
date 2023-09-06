@@ -35,11 +35,12 @@ If you want to run this project locally or contribute to its development, follow
    git clone https://github.com/riteshkshik/MovieX.git
 
 2. Install dependencies:
+   ```shell
     cd MovieX
     npm install
 
-3. Start the development server: npm start
-4. Open your browser and go to http://localhost:3000 to view MovieX locally.
+4. Start the development server: npm start
+5. Open your browser and go to http://localhost:3000 to view MovieX locally.
 
 ## Contribution
 Now you're all set to run MovieX on your local machine and start contributing to its development!
