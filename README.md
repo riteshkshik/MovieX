@@ -1,7 +1,5 @@
 # MovieX - Your Movie Information Website
 
-![MovieX Logo]([insert_logo_image_url_here](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/2560px-IMDB_Logo_2016.svg.png))
-
 MovieX is a dynamic Movie Information Website that allows users to explore a vast collection of movies, including upcoming releases, popular titles, and top-rated films. This project is built using ReactJS and integrates data from [The Movie Database (TMDb)](https://www.themoviedb.org/), providing users with up-to-date movie details and a seamless user experience.
 
 🌐 **[Explore MovieX](https://moviex-80cad.web.app/)**
